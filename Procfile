@@ -1,0 +1,4 @@
+worker: bash start
+
+
+
