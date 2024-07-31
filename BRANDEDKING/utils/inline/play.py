@@ -76,7 +76,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                 text="💌Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/+vUKdfE7LVQc0NjY9",
+                 text="💌Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/+yisuQB22qPUzMGNl",
             ),
             InlineKeyboardButton(
                 text="🦋Cʜᴀɴɴᴇʟ🦋", url="https://t.me/SHE_THINKSS",
@@ -106,7 +106,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(      
-                text="💌Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/+vUKdfE7LVQc0NjY9",
+                text="💌Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/+yisuQB22qPUzMGNl",
             ),
             InlineKeyboardButton(
                 text="🦋Cʜᴀɴɴᴇʟ🦋", url="https://t.me/SHE_THINKSS",
